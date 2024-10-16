@@ -1,6 +1,6 @@
 # Bases-prueba
 
-!(FA.jpg)
+![La mejor imagen de la historia](FA.jpg)
 
 ## Sección
 Una lista:
