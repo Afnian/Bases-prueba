@@ -1,5 +1,7 @@
 # Bases-prueba
 
+!(FA.jpg)
+
 ## Sección
 Una lista:
 - Hola.
