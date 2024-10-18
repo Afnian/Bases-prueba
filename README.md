@@ -1,5 +1,7 @@
 # Bases-prueba
 
+Esto lo edito con nano
+
 ![La mejor imagen de la historia](FA.jpg)
 
 ## Sección
